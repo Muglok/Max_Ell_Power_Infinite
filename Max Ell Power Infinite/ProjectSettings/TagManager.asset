@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Platform
+  - Terrain
+  - Attack
+  - LateralSpiker
+  - UpperSpiker
+  - TerrainDestroyer
+  - Diamond
+  - Point
+  - Spike
+  - PlayerFeet
+  - Coin
+  - Star
+  - Fruit
+  - TerrainPoint
+  - DeathZone
+  - GeneratorZone
+  - InterObject
+  - ExitZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - Enemy2
+  - Info
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1097269773
+    locked: 0
+  - name: UI
+    uniqueID: 1316284685
+    locked: 0
